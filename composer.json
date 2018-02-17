@@ -1,0 +1,17 @@
+{
+    "name": "indeedhat/orm",
+    "description": "''\u001b[Da play about with creating an orm lib with php 7'",
+    "type": "library",
+    "authors": [
+        {
+            "name": "indeedhat",
+            "email": "iam4423@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ORM\\": "src/"
+        }
+    },
+    "require": {}
+}
